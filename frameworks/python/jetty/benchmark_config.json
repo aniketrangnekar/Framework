@@ -1,0 +1,26 @@
+{
+  "framework": "jetty",
+  "tests": [
+    {
+      "default": {
+        "json_url": "/json",
+        "plaintext_url": "/plaintext",
+        "port": 8080,
+        "approach": "Realistic",
+        "classification": "Fullstack",
+        "database": "MySQL",
+        "framework": "jetty",
+        "language": "python",
+        "flavor": "None",
+        "orm": "Micro",
+        "platform": "aws",
+        "webserver": "1",
+        "os": "Linux",
+        "database_os": "Linux",
+        "display_name": "jetty",
+        "notes": "",
+        "versus": "1"
+      }
+    }
+  ]
+}
